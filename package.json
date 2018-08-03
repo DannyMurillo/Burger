@@ -1,0 +1,29 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Express HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyMurillo/Burger.git"
+  },
+  "keywords": [
+    "Express",
+    "HW"
+  ],
+  "author": "Daniel Murillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyMurillo/Burger/issues"
+  },
+  "homepage": "https://github.com/DannyMurillo/Burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
